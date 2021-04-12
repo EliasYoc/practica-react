@@ -1,0 +1,9 @@
+.gif {
+  background-color: #6f6f6f;
+  border-radius: 10px;
+  width: 100%;
+  transition: height 300ms ease;
+}
+.gif img {
+  width: 100%;
+}
